@@ -1,0 +1,10 @@
+Como instalar e configurar
+Requisitos: Você precisa ter o framework Oxide (uMod) instalado no seu servidor de Icarus.
+
+Criação do arquivo: Copie o código acima e cole em um editor de texto (como Notepad++ ou VS Code).
+
+Salvar: Salve o arquivo com o nome exatamente igual ao da classe: AntiLootCorpse.cs.
+
+Upload: Coloque o arquivo na pasta /oxide/plugins/ do seu servidor.
+
+Carregamento: O Oxide deve carregar o plugin automaticamente. Se não, use o comando oxide.reload AntiLootCorpse no console.
